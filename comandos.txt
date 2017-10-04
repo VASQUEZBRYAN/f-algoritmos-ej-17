@@ -1,0 +1,65 @@
+1  hola mundo
+    2  echo "# f-algoritmos-ej-17" >> README.md
+    3  git init
+    4  git add README.md
+    5  git commit -m "first commit"
+    6  git remote add origin https://github.com/VASQUEZBRYAN/f-algoritmos-ej-17.git
+    7  echo "# f-algoritmos-ej-17" >> README.md
+    8  git init
+    9  git add README.md
+   10  git commit -m "first commit"
+   11  git remote add origin https://github.com/VASQUEZBRYAN/f-algoritmos-ej-17.git
+   12  git push -u origin master
+   13  echo "# f-algoritmos-ej-17" >> README.md
+   14  git init
+   15  git add README.md
+   16  git commit -m "first commit"
+   17  git remote add origin https://github.com/VASQUEZBRYAN/f-algoritmos-ej-17.git
+   18  git push -u origin master
+   19  echo "# f-algoritmos-ej-17" >> README.md
+   20  git init
+   21  git add README.md
+   22  git commit -m "first commit"
+   23* git add
+   24  git remote add origin https://github.com/VASQUEZBRYAN/f-algoritmos-ej-17.git
+   25  git init
+   26  git add README.md
+   27  echo "# f-algoritmos-ej-17" >> README.md
+   28  git init
+   29  git add README.md
+   30  git commit -m "first commit"
+   31  git config --global user.email "you@example.com"
+   32  git config --global user.email "bryanvaspi66@gmail.com"
+   33  git config --global user.name "bryan"
+   34  echo "# f-algoritmos-ej-17" >> README.md
+   35  git init
+   36  git add README.md
+   37  git commit -m "first commit"
+   38  git remote add origin https://github.com/VASQUEZBRYAN/f-algoritmos-ej-17.git
+   39  git push -u origin master
+   40  git push -u origin master
+   41   git push -u origin master
+   42  git status
+   43  git add principal.txt
+   44  git comit -m-a"primer ejercicio"
+   45  git push
+   46  git status
+   47  git add principal.txt
+   48  git status
+   49  git add principal.txt
+   50  git push
+   51  git commit -a-m"primer archivo"
+   52  git status
+   53  git commit -m -a"primer"
+   54  git add principal.txt
+   55  git status
+   56  git add principal.txt.txt
+   57  git commit -m -a"primer archivo"
+   58  git push
+   59  git status
+   60  git status
+   61  git commit -a -m"modificacion"
+   62  git push
+   63  git status
+   64  history
+
