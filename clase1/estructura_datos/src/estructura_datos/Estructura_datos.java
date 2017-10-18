@@ -11,6 +11,9 @@ public class Estructura_datos {
     leer_arreglo metodo= new leer_arreglo();
    metodo.llamar_Arreglos();
    metodo.presentar();
+   metodo.eliminar();
+   metodo.ordenar();
+   metodo.buscar();
 
    
     }
