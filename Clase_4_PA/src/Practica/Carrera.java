@@ -3,36 +3,42 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Institucion;
+package Practica;
 
 /**
  *
  * @author Usuario
  */
-public class Asignatura {
+public class Carrera {
      private String nombre;
-    private int creditos;
+    private String modalidad;
     
+    
+    public Carrera(String md, String n){
+        modalidad = md;
+        nombre = n;
+    }
     public void establecer_nombre(String n){
         nombre = n;
     }
     
-    public void establecrer_creditos(int n){
-        creditos = n;
+    public void establecer_modalidad(String n){
+        modalidad = n;
     }
     
     public String obtener_nombre(){
         return nombre;
     }
     
-    public int obtener_creditos(){
-        return creditos;
+    public String obtener_modalidad(){
+        return modalidad;
     }
     
-    @Override
+     @Override
     public String toString(){
-        String cadena = String.format("%s con número de crédito", 
-                obtener_nombre(), obtener_nombre());
+        String cadena = String.format("Carrera: %s\n"
+                + "Modalidad: %s",
+                obtener_modalidad(), obtener_nombre());
         return cadena;
     }
     
